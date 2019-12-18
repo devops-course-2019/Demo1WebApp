@@ -14,3 +14,4 @@ Initially a loop is run to generate text of different font sizes.
 4. Validate deployment by calling the application and validating expected response.
 
 Minor change for poll test 2019-12-18 (1) 
+Minor change for poll test 2019-12-18 (2) 
